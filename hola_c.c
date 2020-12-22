@@ -5,7 +5,8 @@
 
 #include <stdio.h>
 
-#DEFINE v1;
+#DEFINE V1;
+#DEFINE V2;
 
 int main()
 {
